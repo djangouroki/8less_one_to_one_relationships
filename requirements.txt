@@ -1,1 +1,6 @@
-Django==3.1
+Django
+ipython
+flake8
+psycopg2
+psycopg2-binary
+autopep8
